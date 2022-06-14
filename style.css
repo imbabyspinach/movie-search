@@ -23,7 +23,7 @@ header {
   height: 5rem;
 }
 
-#title {
+/* #title {
   color: #d6d6d6;
   /* display: flex; */
   position: absolute;
@@ -33,11 +33,11 @@ header {
   margin: 0;
   font-size: 30px;
   font-weight: 400;
-  display: inline-block;
+  display: flex;
   font-family: 'Righteous', cursive;
   letter-spacing: 0.08rem;
   text-align: center;
-}
+} */
 
 #form {
 }
